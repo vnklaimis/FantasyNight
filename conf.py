@@ -115,7 +115,7 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['.static']
 
-html_logo = 'owlgaming.png'
+html_logo = 'FantasyNight_Logo-New.png'
 
 
 # -- Options for HTMLHelp output ------------------------------------------
