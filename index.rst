@@ -51,7 +51,7 @@ Below are some important links to our various official websites that will be ref
     :caption: Lore
 
 +--------------+---------------------------+
-| Abbreviation | Description               |
+| Abreviatūra  | Skaidrojums               |
 +==============+===========================+
 | IC           | Iekš Tēla                 |
 +--------------+---------------------------+
