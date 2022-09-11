@@ -23,7 +23,7 @@ Below are some important links to our various official websites that will be ref
 
 .. toctree::
     :maxdepth: 2
-    :caption: Rules
+    :caption: Noteikumi
 
     rules/general_rules   
     rules/v_rules
@@ -31,7 +31,7 @@ Below are some important links to our various official websites that will be ref
 
 .. toctree::
     :maxdepth: 2
-    :caption: Tutorials
+    :caption: Pamācības
 
     tutorials/troubleshooting_joining_v
     tutorials/beginner_tutorial_v
@@ -44,7 +44,7 @@ Below are some important links to our various official websites that will be ref
         
 .. toctree::
     :maxdepth: 2
-    :caption: Tutorials
+    :caption: Pamācības
         
 .. toctree::
     :maxdepth: 2
@@ -53,27 +53,27 @@ Below are some important links to our various official websites that will be ref
 +--------------+---------------------------+
 | Abbreviation | Description               |
 +==============+===========================+
-| IC           | In Character              |
+| IC           | Iekš Tēla                 |
 +--------------+---------------------------+
-| OOC          | Out of Character          |
+| OOC          | Ārpus Tēla                |
 +--------------+---------------------------+
 | PK           | Player Kill               |
 +--------------+---------------------------+
 | CK           | Character Kill            |
 +--------------+---------------------------+
-| UAT          | Upper Administration Team |
-+--------------+---------------------------+
-| GAT          | Game Administration Team  |
-+--------------+---------------------------+
-| FT           | Faction Team              |
-+--------------+---------------------------+
-| PC           | Public Contact            |
-+--------------+---------------------------+
-| UCP          | User Control Panel        |
-+--------------+---------------------------+
 | RP           | Role Play                 |
 +--------------+---------------------------+
-| PG           | Powergame                 |
+| PG           | Power Game                |
 +--------------+---------------------------+
-| MG           | Metagame                  |
+| MG           | Meta Game                 |
++--------------+---------------------------+
+| CS           | Common Sense              |
++--------------+---------------------------+
+| DM           | Death Match               |
++--------------+---------------------------+
+| BH           | Bunny Hop                 |
++--------------+---------------------------+
+| CR           | Chicken Run               |
++--------------+---------------------------+
+| QS           | Quick Swap                |
 +--------------+---------------------------+
