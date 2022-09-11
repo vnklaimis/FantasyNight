@@ -1,8 +1,8 @@
 ##############################################
-Welcome to OwlGaming's Official Documentation!
+Sveicināti iekš FantasyNight.Lv Dokumentācijas!
 ##############################################
 
-This documentation covers the official rules, lore, and tutorials of the `OwlGaming Community`_. This resource uses both Markdown and Sphinx. Use the side bar for navigation. 
+This documentation covers the official rules, lore, and tutorials of the `FantasyNight`_. This resource uses both Markdown and Sphinx. Use the side bar for navigation. 
 
 Below are some important links to our various official websites that will be referenced throughout this documentation. You will also find below an appendix of abbreviation utilized throughout the guides and rules. The lore of the server may be used in character.
 
@@ -11,21 +11,15 @@ Below are some important links to our various official websites that will be ref
 * `Main Site`_
 * `Forums`_
 * `Wiki`_
-* `Gitlab`_
 * `Bugtracker`_
 * `Discord`_
-* `LSPD`_
-* `LSCFD`_
 
-.. _OwlGaming Community: https://owlgaming.net/
-.. _Forums: https://forums.owlgaming.net/
-.. _Gitlab: https://gitlab.com/OwlGamingCommunity
-.. _Main Site: https://owlgaming.net/
-.. _Wiki: https://wiki.owlgaming.net
+.. _FantasyNight: https://www.fantasynight.lv
+.. _Forums: https://www.fantasynight.lv/forums
+.. _Main Site: https://www.fantasynight.lv
+.. _Wiki: https://wiki.fantasynight.lv
 .. _Bugtracker: https://bugs.owlgaming.net/my_view_page.php 
-.. _Discord: https://discord.gg/whf5RFn
-.. _LSPD: https://leo.owlgaming.net/
-.. _LSCFD: https://dps.owlgaming.net/
+.. _Discord: https://discord.gg/Cjk46PW3ew
 
 .. toctree::
     :maxdepth: 2
