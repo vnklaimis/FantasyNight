@@ -1,5 +1,5 @@
 #######################
-Grand Theft Auto V
+Multi Theft Auto San Andreas
 #######################
 .. _bug tracker: https://bugs.owlgaming.net/
 .. _UAT Contact: https://forums.owlgaming.net/forms/10-upper-administration-contact-ooc/
