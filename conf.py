@@ -39,7 +39,7 @@ extensions = ['sphinx.ext.intersphinx',
     'sphinx.ext.githubpages']
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['templates']
+templates_path = ['.templates']
 
 source_parsers = {
     '.md': CommonMarkParser,
