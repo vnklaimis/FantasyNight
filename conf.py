@@ -39,7 +39,7 @@ extensions = ['sphinx.ext.intersphinx',
     'sphinx.ext.githubpages']
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['.templates']
+templates_path = ['templates']
 
 source_parsers = {
     '.md': CommonMarkParser,
@@ -55,9 +55,9 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'OwlGaming'
-copyright = '2019, OwlGaming Community'
-author = 'OwlGaming Community'
+project = 'FantasyNight'
+copyright = '2022, FantasyNight'
+author = 'FantasyNight'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -105,7 +105,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 html_theme_options = {
     'collapse_navigation': False,
     'display_version': False,
-    'canonical_url': 'https://docs.owlgaming.net/',
+    'canonical_url': 'https://docs.fantasynight.lv/',
     'sticky_navigation': True,
     'logo_only': True
 }
@@ -148,8 +148,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'OwlGaming.tex', 'OwlGaming Documentation',
-     'OwlGaming Community', 'manual'),
+    (master_doc, 'OwlGaming.tex', 'FantasyNight Dokumentāija',
+     'FantasyNight Gaming Community', 'manual'),
 ]
 
 
@@ -158,7 +158,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'owlgaming', 'OwlGaming Documentation',
+    (master_doc, 'fantasynight', 'FantasyNight Dokumentāija',
      [author], 1)
 ]
 
@@ -169,8 +169,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'OwlGaming', 'OwlGaming Documentation',
-     author, 'OwlGaming', 'One line description of project.',
+    (master_doc, 'FantasyNight', 'FantasyNight Dokumentāija',
+     author, 'FantasyNight', 'Gaming Community.',
      'Miscellaneous'),
 ]
 
