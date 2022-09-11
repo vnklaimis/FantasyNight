@@ -1,6 +1,6 @@
 ##################
-Grand Theft Auto San Andreas
+Multi Theft Auto San Andreas
 ##################
 
 .. note::
-    Please remember when dealing with roleplay as a whole, it is a complex subject. One player's interpretation of a situation may be different from another player's. If you suspect powergaming, metagaming, or some other rule violation, an attempt to clarify the situation is always encouraged. Please check out our official roleplay guides and tutorials so you as a player understand the quality and standards that are expected to avoid accidentally breaking rules.
+    Lūdzu, atceries! Lomuspēlē kā tādas ir ļoti kompleksa lieta. Viena spēlētāja interpretācija par situāciju var būt atšķirīga no otra. Ja tu saskati kāda noteikuma pārkāpumu, mēģinājums noskaidrot situāciju vienmēr tiek pieņemts. Lūdzu, iepazīstieties ar mūsu oficiālajiem roleplay ceļvežiem un pamācībām, lai jūs kā spēlētājs izprastu kvalitāti un standartus, kas, domājams, ļaus izvairīties no nejaušas noteikumu pārkāpšanas.
