@@ -1,5 +1,5 @@
 ##############################################
-Sveicināti iekš FantasyNight.Lv Dokumentācijas!
+Sveicināts/-a iekš FantasyNight.Lv!
 ##############################################
 
 This documentation covers the official rules, lore, and tutorials of the `FantasyNight`_. This resource uses both Markdown and Sphinx. Use the side bar for navigation. 
