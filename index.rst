@@ -2,11 +2,11 @@
 Sveicināts/-a iekš FantasyNight.Lv!
 ##############################################
 
-This documentation covers the official rules, lore, and tutorials of the `FantasyNight`_. This resource uses both Markdown and Sphinx. Use the side bar for navigation. 
+Šī lapa satur oficiālos `FantasyNight`_ noteikumus un pamācības. Lieto "SideBar" lai atrastu nepieciešamo
 
-Below are some important links to our various official websites that will be referenced throughout this documentation. You will also find below an appendix of abbreviation utilized throughout the guides and rules. The lore of the server may be used in character.
+Zemāk ir linki uz mūsu oficiālajām mājaslapām.
 
-**Links**
+**Linki**
 
 * `Main Site`_
 * `Forums`_
@@ -23,24 +23,25 @@ Below are some important links to our various official websites that will be ref
 
 .. toctree::
     :maxdepth: 2
-    :caption: Noteikumi
+    :caption: Portāla Noteikumi
 
     rules/general_rules   
-    rules/v_rules
+
+.. toctree::
+    :maxdepth: 2
+    :caption: MTA Noteikumi
+  
     rules/mta_rules
-
+    
 .. toctree::
     :maxdepth: 2
-    :caption: Pamācības
+    :caption: MTA Pamācības
 
-    tutorials/troubleshooting_joining_v
-    tutorials/beginner_tutorial_v
+    tutorials/wallpaper
         
 .. toctree::
     :maxdepth: 2
     :caption: Lore
-
-    lore/v_lore
         
 .. toctree::
     :maxdepth: 2
@@ -49,31 +50,3 @@ Below are some important links to our various official websites that will be ref
 .. toctree::
     :maxdepth: 2
     :caption: Lore
-
-+--------------+---------------------------+
-| Abreviatūra  | Skaidrojums               |
-+==============+===========================+
-| IC           | Iekš Tēla                 |
-+--------------+---------------------------+
-| OOC          | Ārpus Tēla                |
-+--------------+---------------------------+
-| PK           | Player Kill               |
-+--------------+---------------------------+
-| CK           | Character Kill            |
-+--------------+---------------------------+
-| RP           | Role Play                 |
-+--------------+---------------------------+
-| PG           | Power Game                |
-+--------------+---------------------------+
-| MG           | Meta Game                 |
-+--------------+---------------------------+
-| CS           | Common Sense              |
-+--------------+---------------------------+
-| DM           | Death Match               |
-+--------------+---------------------------+
-| BH           | Bunny Hop                 |
-+--------------+---------------------------+
-| CR           | Chicken Run               |
-+--------------+---------------------------+
-| QS           | Quick Swap                |
-+--------------+---------------------------+
