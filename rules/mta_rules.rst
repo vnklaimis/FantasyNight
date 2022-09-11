@@ -3,7 +3,7 @@ Multi Theft Auto San Andreas
 ############################
 
 .. note::
-    Lūdzu, atceries! Lomuspēlē kā tādas ir ļoti kompleksa lieta. Viena spēlētāja interpretācija par situāciju var būt atšķirīga no otra. Ja tu saskati kāda noteikuma pārkāpumu, mēģinājums noskaidrot situāciju vienmēr tiek pieņemts. Lūdzu, iepazīstieties ar mūsu oficiālajiem roleplay ceļvežiem un pamācībām, lai jūs kā spēlētājs izprastu kvalitāti un standartus, kas, domājams, ļaus izvairīties no nejaušas noteikumu pārkāpšanas.
+    Lūdzu, atceries! Lomuspēlē kā tāda ir ļoti kompleksa lieta. Viena spēlētāja interpretācija par situāciju var būt atšķirīga no otra. Ja tu saskati kāda noteikuma pārkāpumu, mēģinājums noskaidrot situāciju vienmēr tiek pieņemts. Lūdzu, iepazīstieties ar mūsu oficiālajiem roleplay ceļvežiem un pamācībām, lai jūs kā spēlētājs izprastu kvalitāti un standartus, kas, domājams, ļaus izvairīties no nejaušas noteikumu pārkāpšanas.
     
     
 *******************
@@ -12,59 +12,59 @@ Terminu Skaidrojums
     
 Meta Gaming (MG)
 =================
-Meta Gaming ir...
+Meta Gaming ir OOC ceļā iegūtas informācijas izmantošana IC.
 
 Common Sense (CS)
 =================
-Common Sense ir...
+Common Sense ir neloģisku lietu attēlošana spēlē.
 
 Power Gaming (PG)
 =================
-Power Gaming ir...
+Power Gaming ir fiziski, garīgi vai emocionāli neiespējamu lietu attēlošana spēlē.
 
 Death Matching (DM)
 =================
-Death Matching ir...
+Death Matching ir spēlētāja nogalināšana, bez nekāda IC pamatojuma
 
 Player Kill (PK)
 =================
-Player Kill ir...
+Player Kill ir spēlētāja nogalināšana, pēc kā viņš/viņa nedrīkst attēlot lomuspēli par visu iepriekš notikušo periodu.
 
 Character Kill (CK)
 =================
-Character ir...
+Character Kill ir spēlētāja nogalināšana, pēc kā viņš/viņa vairs nevar piekļūt attiecīgajam personāžam
 
 Bunny Hopping (BH)
 =================
-Bunny Hopping ir...
+Bunny Hopping ir nerealistiska lēkāšana, lai paātrinātu sava personāža ātrumu
 
 Chicken Running (CR)
 =================
-Chicken Running ir...
+Chicken Running ir skraidīšana zigzagā lai izvairītos no izšautām lodēm.
 
 Olympic Swimming (OS)
 =================
-Olympic Swimming ir...
+Olympic Swimming ir peldēšana bez apstājas, neatveidojot lomuspēli par to kā tavs personāžs nogurst.
 
 Quick Swapping (QS)
 =================
-Quick Swapping ir...
+Quick Swapping ir ieroča nonRPiska izvilkšana, neattēlojot nekāda veida RP. Šis noteikums neattiecas uz kamerām, spieķiem, biljarda nūjām, ja pirmstam ir veikts RP kur šie priekšmeti ir pielietoti.
 
 RP Avoid
 ========
-RP Avoid ir...
+RP Avoid ir nepamatota izvairīšanās no lomuspēles atveides.
 
 Mix
 ===
-Mix ir...
+Mix ir OOC un IC čatu jaušana
 
 Stat Transfer
 =============
-Stat Transfer ir...
-
+Stat Transfer ir personāža statistikas pārnešana no viena personāža uz otru personāžu. Palīdzēšana Stat Transferā neatbrīvo no atbildības.
+ 
 Away From Keyboard (AFK)
 ========================
-Away From Keyboard ir...
+AFK iekš tēla drīkst atrasties līdz 5 minūtēm. Ja plāno atrasties AFK ilgāk par 5 minūtēm, tad izmanto F10 > Mainīt personāžu.
 
 NonRP reklāmas
 ========
