@@ -1,50 +1,52 @@
 ##############
-General
+Galvenie noteikumi
 ##############
 .. _bug tracker: https://bugs.owlgaming.net/
 .. _UAT Contact: https://forums.owlgaming.net/forms/10-upper-administration-contact-ooc/
 .. _Support Center: https://owlgaming.net/support/
 
 .. note::
-    These rules apply across the entirety of OwlGaming.
+    Šie noteikumi attiecas uz visu FantasyNight Spēļu Portālu.
 
 *******
-Conduct
+Uzvedība
 *******
 Users of OwlGaming must treat eachother with respect. Insulting, trolling, flaming, spamming, or acting in otherwise disruptive ways is prohibited. Users must listen to what an administrator tells them to do when they are acting in an official capacity.
 
+FantasyNight lietotājiem pret citiem ir jāizturas ar cieņu. Aizliegts apvainot, aizskart, spamot vai jebkādā citā veidā traucēt/aizskart lietotāju. Lietotājiem ir jauzklausa administrācijas biedrs un tajā ko tas liek viņam darīt, kamēr atrodas statusā.
+
 ********
-Accounts
+Lietotāju profili
 ********
 
-Multiple Accounts
+Vairāki profili
 =================
 .. note::
-    Permanent bans are automatically issued as a precaution to prevent multi-accounting in cases where we find more than one account per IP address or computer.
 
-Users of OwlGaming are prohibited from creating and or using more than one account on MTA, V, the Forums, or UCP and may only use the account they originally created themselves. There may only be one account per computer and IP address, however, users with siblings or friends who wish to play together on the same IP address must seek permission by filing a ticket through our `Support Center`_ or a `UAT Contact`_. This permission may only be granted by a member of the UAT. 
+    Mūža liegumi tiek automātiski izsniegti, aizsardzības nolūkā, lai novērstu Multi-Acc pārkāpumu, gadījumos kad mēs atklājam vairāk par 1 profilu uz 1 IP adreses vai datora
 
-Sharing & Selling Accounts
+FantasyNight lietotājiem ir aizliegts izveidot un/vai lietot vairāk par vienu Foruma, vai jebkura cita spēļu servera profilu un drīkst izmantot tikai profilu ko ir izveidojuši paši. Uz viena datora/IP drīkst reģistrēts tikai 1 profils. Taču, lietotāji ar brāļiem/māsām vai draugiem kuri vēlas spēlēt kopā no vienas IP adreses ir jāsaņem atļauja no FantasyNight vadības. Lai uzzinātu vairāk par šo, pievienojies mūsu Discord'am.
+
+Profilu dalīšanās & Pārdošana
 ==========================
-Users of OwlGaming are prohibited from sharing, selling, giving away, or otherwise granting access of their account to others. Doing so is considered multi-accounting. Each user is ultimately responsible for the actions of others on their account if it has been shared. Users will not be unbanned or granted an appeal if they let someone else on their account and the rules are broken.
+FantasyNight lietotājiem ir aizliegts dalīties, pārdot, atdot vai jebkādi citādi piešķirt piekļuvi savam profilam trešajām personām. Veicot šāda tika darbības tas tiks pamatots kā MultiAcc. Katrs lietotājs ir maksimāli atbildīgs par darbībām, ko citi veic ar lietotāja profilu, ja tā piekļuves dati ir nonākuši pie trešajām personām. Lietotāji netiks unbanoti, ja profila piekļuva kāda ita persona un tika pārkāpti noteikumi.
 
-Accounts are considered private, personal, and unique to one player.
+Konti tiek uzskatīti par privātiem, personiskiem un unikāliem vienam spēlētājam.
 
 ******************
-Server Advertising
+Spēļu portāla reklamēšana
 ******************
-Users of OwlGaming may not send links or otherwise discuss competing servers, communities, or groups of OwlGaming in a manner which advertises them or encourages others to join them or leave OwlGaming.
+
+FantasyNight lietotājiem aizliegts sūtīt linkus vai jebkādi citādi diskutēt par blakus projektiem, komūniem, veicinot to reklāmu.
 
 *******************************
-Inappropriate & Illegal Content
-*******************************
-Users of OwlGaming must not post material or links to content which is illegal as per United States, Canadian, and International law. Additionally, nudity, gore, or otherwise similarly inappropriate content without spoilers, warnings, and a valid reason, is prohibited. 
+Nepiemērots un nelikumīgs saturs
+******************************* 
 
-    | **Example:** 
-    | Illegal roleplayers discussing a drug cartel in real life and showing a video of a shootout with a "NSFW" spoiler would be acceptable, showing random gore for shock value is not.
+FantasyNight lietotāji nedrīkst izlikt materiālus vai saites uz saturu, kas ir nelikumīgs saskaņā ar Latvijas valsts, Eiropas datu aizsardzības regulu. Turklāt kailums vai citādi līdzīgi nepiemērots saturs bez spoileriem, brīdinājumiem un pamatota iemesla ir aizliegts.
 
 ***************
-Bugs & Exploits
+Bugi & to izmantošana
 ***************
 .. note::
     If you attempt to reproduce a bug to submit it to our bug tracker, please ensure you tell an administrator so you are not accidentally banned. Using the excuse of reproducing or testing a bug is not an acceptable unban reason if you failed to tell an administrator!
